@@ -1,0 +1,1588 @@
+{
+  "teams": [
+    {
+      "team": "Equipe 1",
+      "group": 1,
+      "instagram": "null",
+      "rounds": [
+        {
+          "round": 1,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 3,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Equipe 2",
+      "group": 2,
+      "instagram": "null",
+      "rounds": [
+        {
+          "round": 1,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 3,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Equipe 3",
+      "group": 1,
+      "instagram": "null",
+      "rounds": [
+        {
+          "round": 1,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 3,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Equipe 4",
+      "group": 2,
+      "instagram": "null",
+      "rounds": [
+        {
+          "round": 1,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 3,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Equipe 5",
+      "group": 1,
+      "instagram": "null",
+      "rounds": [
+        {
+          "round": 1,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 3,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Equipe 6",
+      "group": 2,
+      "instagram": "null",
+      "rounds": [
+        {
+          "round": 1,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 3,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Equipe 7",
+      "group": 1,
+      "instagram": "null",
+      "rounds": [
+        {
+          "round": 1,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 3,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Equipe 8",
+      "group": 2,
+      "instagram": "null",
+      "rounds": [
+        {
+          "round": 1,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 3,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Equipe 9",
+      "group": 1,
+      "instagram": "null",
+      "rounds": [
+        {
+          "round": 1,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 3,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Equipe 10",
+      "group": 2,
+      "instagram": "null",
+      "rounds": [
+        {
+          "round": 1,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 3,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Equipe 11",
+      "group": 1,
+      "instagram": "null",
+      "rounds": [
+        {
+          "round": 1,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 3,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Equipe 12",
+      "group": 2,
+      "instagram": "null",
+      "rounds": [
+        {
+          "round": 1,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "drops": [
+            {
+              "drop": 1,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 2,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            },
+            {
+              "drop": 3,
+              "played": false,
+              "position": 0,
+              "kill": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
