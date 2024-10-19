@@ -1564,21 +1564,21 @@
           "drops": [
             {
               "drop": 1,
-              "played": false,
-              "position": 0,
-              "kill": 0
+              "played": true,
+              "position": 1,
+              "kill": 2
             },
             {
               "drop": 2,
-              "played": false,
-              "position": 0,
-              "kill": 0
+              "played": true,
+              "position": 5,
+              "kill": 1
             },
             {
               "drop": 3,
-              "played": false,
-              "position": 0,
-              "kill": 0
+              "played": true,
+              "position": 1,
+              "kill": 2
             }
           ]
         }
