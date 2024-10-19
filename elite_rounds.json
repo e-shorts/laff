@@ -1,0 +1,34 @@
+{
+  "roundActual": 1,
+  "1": [
+    {
+      "versus": "Rodada: A e B",
+      "live": "A confirmar",
+      "date": "A confirmar",
+      "url": "null",
+      "booyah": "Booyah:\nBermuda: Aguarde...\nPurgatório: Aguarde...\nKalahari: Aguarde..."
+    },
+    {
+      "versus": "Rodada: C e D",
+      "live": "A confirmar",
+      "date": "A confirmar",
+      "url": "null",
+      "booyah": "Booyah:\nBermuda: Aguarde...\nPurgatório: Aguarde...\nKalahari: Aguarde..."
+    }
+  ],
+  "2": [
+    {
+      "versus": "Rodada: A e C",
+      "live": "A confirmar",
+      "date": "A confirmar",
+      "url": "null",
+      "booyah": "Booyah:\nBermuda: Aguarde...\nPurgatório: Aguarde...\nKalahari: Aguarde..."
+    },
+    {
+      "versus": "Rodada: B e D",
+      "live": "A confirmar",
+      "date": "null",
+      "booyah": "Booyah:\nBermuda: Aguarde...\nPurgatório: Aguarde...\nKalahari: Aguarde..."
+    }
+  ]
+}
