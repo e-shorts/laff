@@ -35,12 +35,14 @@
       "versus": "Grupo: A-1 vs B-1",
       "live": "A confirmar",
       "date": "A confirmar",
-      "url": "null"
+      "url": "null",
+      "booyah": "Booyah:\nBermuda: Aguarde...\nPurgatório: Aguarde..."
     },
     {
       "versus": "Grupo: A-1 vs B-1",
       "live": "A confirmar",
-      "date": "null"
+      "date": "null",
+      "booyah": "Booyah:\nBermuda: Aguarde...\nPurgatório: Aguarde..."
     }
   ]
 }
