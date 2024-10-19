@@ -4,24 +4,27 @@
     {
       "versus": "Grupo: A-1 vs B-1",
       "live": "A confirmar",
-      "date": "A confirmar"
+      "date": "A confirmar",
+      "url": "null"
     },
     {
       "versus": "Grupo: C-1 vs D-1",
       "live": "A confirmar",
-      "date": "A confirmar"
+      "date": "A confirmar",
+      "url": "null"
     }
   ],
   "2": [
     {
       "versus": "Grupo: A-1 vs B-1",
       "live": "A confirmar",
-      "date": "A confirmar"
+      "date": "A confirmar",
+      "url": "null"
     },
     {
       "versus": "Grupo: A-1 vs B-1",
       "live": "A confirmar",
-      "date": "A confirmar"
+      "date": "null"
     }
   ]
 }
