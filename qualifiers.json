@@ -1,0 +1,27 @@
+{
+  "roundActual": 1,
+  "1": [
+    {
+      "versus": "Grupo: A-1 vs B-1",
+      "live": "A confirmar",
+      "date": "A confirmar"
+    },
+    {
+      "versus": "Grupo: C-1 vs D-1",
+      "live": "A confirmar",
+      "date": "A confirmar"
+    }
+  ],
+  "2": [
+    {
+      "versus": "Grupo: A-1 vs B-1",
+      "live": "A confirmar",
+      "date": "A confirmar"
+    },
+    {
+      "versus": "Grupo: A-1 vs B-1",
+      "live": "A confirmar",
+      "date": "A confirmar"
+    }
+  ]
+}
