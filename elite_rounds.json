@@ -28,5 +28,21 @@
       "date": "null",
       "booyah": "Booyah:\nBermuda: Aguarde...\nPurgatório: Aguarde...\nKalahari: Aguarde..."
     }
+  ],
+  "2": [
+    {
+      "versus": "A e B",
+      "live": "A confirmar",
+      "date": "A confirmar",
+      "url": "null",
+      "booyah": "Booyah:\nBermuda: Aguarde...\nPurgatório: Aguarde...\nKalahari: Aguarde..."
+    },
+    {
+      "versus": "C e D",
+      "live": "A confirmar",
+      "date": "A confirmar",
+      "url": "null",
+      "booyah": "Booyah:\nBermuda: Aguarde...\nPurgatório: Aguarde...\nKalahari: Aguarde..."
+    }
   ]
 }
