@@ -1,4 +1,5 @@
 {
+  "roundActual": 1,
   "1": [
     {
       "versus": "A e B",
@@ -43,6 +44,5 @@
       "url": "null",
       "booyah": "Booyah:\nBermuda: Aguarde...\nPurgatório: Aguarde...\nKalahari: Aguarde..."
     }
-  ],
-  "roundActual": 1
+  ]
 }
