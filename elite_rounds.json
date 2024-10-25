@@ -1,5 +1,4 @@
 {
-  "roundActual": 1,
   "1": [
     {
       "versus": "A e B",
@@ -25,7 +24,8 @@
     {
       "versus": "B e D",
       "live": "A confirmar",
-      "date": "null",
+      "date": "A confirmar",
+      "url": "null",
       "booyah": "Booyah:\nBermuda: Aguarde...\nPurgatório: Aguarde...\nKalahari: Aguarde..."
     }
   ],
@@ -44,5 +44,6 @@
       "url": "null",
       "booyah": "Booyah:\nBermuda: Aguarde...\nPurgatório: Aguarde...\nKalahari: Aguarde..."
     }
-  ]
+  ],
+  "roundActual": 1
 }
